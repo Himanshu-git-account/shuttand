@@ -3,6 +3,9 @@ welcome to My project list
 1: Turing app
 2. Trinity app
 
+Recipe app
+Even odd game
+
 
 
 Thank you
